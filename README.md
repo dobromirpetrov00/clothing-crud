@@ -9,6 +9,7 @@ Before running this project, ensure you have the following installed:
 - **Angular** (version 18.2.9)
 - **Node.js** (version 23.0.0)
 - **npm** (version 10.9.0)
+- **PrimeNG** (version 17.18.11)
 ## Installation
 
 #### Clone the repository:
@@ -27,6 +28,12 @@ npm i
 ```bash
 cd client
 npm i
+```
+
+#### Install UI components:
+```bash
+cd client
+npm i primeng
 ```
 ## In the project directory you can run:
 
