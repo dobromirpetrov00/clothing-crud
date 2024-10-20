@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Hoodie - Black",
+      "image": "assets/images/products/image1.jpg",
+      "price": "19,99",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Shoes - Swiss",
+      "image": "assets/images/products/image2.jpg",
+      "price": "69,99",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Blouse - White",
+      "image": "assets/images/products/image3.jpg",
+      "price": "49,99",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Dress - Gray",
+      "image": "assets/images/products/image4.jpg",
+      "price": "89,99",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "T-Shirt - Black",
+      "image": "assets/images/products/image5.jpg",
+      "price": "29,99",
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Jacket - Jeans",
+      "image": "assets/images/products/image6.jpg",
+      "price": "109,99",
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "name": "T-Shirt - Black",
+      "image": "assets/images/products/image7.jpg",
+      "price": "29,99",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Coat - Beige",
+      "image": "assets/images/products/image8.jpg",
+      "price": "79,99",
+      "rating": 2
+    },
+    {
+      "id": 9,
+      "name": "Shoes - Colorful",
+      "image": "assets/images/products/image9.jpg",
+      "price": "59,99",
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "name": "Shoes - Air",
+      "image": "assets/images/products/image10.jpg",
+      "price": "129,99",
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Beanie - Black",
+      "image": "assets/images/products/image11.jpg",
+      "price": "9,99",
+      "rating": 1
+    },
+    {
+      "id": 12,
+      "name": "Beanie - Orange",
+      "image": "assets/images/products/image12.jpg",
+      "price": "10,99",
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "name": "Beanie - Red",
+      "image": "assets/images/products/image13.jpg",
+      "price": "10,99",
+      "rating": 3
+    },
+    {
+      "id": 15,
+      "name": "Blouse - Cyan",
+      "image": "assets/images/products/image15.jpg",
+      "price": "39,99",
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "name": "Raincoat - Yellow",
+      "image": "assets/images/products/image16.jpg",
+      "price": "29,99",
+      "rating": 1
+    },
+    {
+      "id": 17,
+      "name": "Defensive Vest",
+      "image": "assets/images/products/image17.jpg",
+      "price": "29,99",
+      "rating": 5
+    }
+  ]
+}
