@@ -14,7 +14,7 @@ Before running this project, ensure you have the following installed:
 
 #### Clone the repository:
 ```bash
-git clone https://github.com/dobromirpetrov00/clothing-crud.git
+git clone https://github.com/dobromirpetrov00/marketplace-nodejs-angular.git
 cd go_react_jwtauth
 ```
 
