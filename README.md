@@ -15,7 +15,7 @@ Before running this project, ensure you have the following installed:
 #### Clone the repository:
 ```bash
 git clone https://github.com/dobromirpetrov00/marketplace-nodejs-angular.git
-cd go_react_jwtauth
+cd marketplace-nodejs-angular
 ```
 
 #### Install dependencies for the back end:
