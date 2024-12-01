@@ -51,7 +51,7 @@ ng serve
 
 #### Open the web app in your browser:
 - Visit [http://localhost:4200](http://localhost:4200) to access the application.
-## Feautures
+## Features
 - **Homepage** - Displays a list of all products.
 - **About Us** - Provides information about the application.
 - **Product Management** - Allows users to add, edit, and delete products.
